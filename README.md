@@ -191,7 +191,3 @@ weibo_hide/
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
-
-## 相关项目
-
-- [weibo_crawler](../weibo_crawler) - 微博爬虫和打脸检测器
